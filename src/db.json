@@ -1,0 +1,148 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Paris, France",
+      "country": "France",
+      "description": "The City of Light is famous for the Eiffel Tower, world-class art, and delicious croissants",
+      "notes": "I want to see the Louvre museum and climb the Eiffel Tower at sunset",
+      "budget": 2500,
+      "currency": "EUR",
+      "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "status": "wishlist",
+      "travelDates": {
+        "start": null,
+        "end": null
+      },
+      "tips": [
+        "Book Louvre tickets online to skip lines",
+        "Try a real croissant from a local bakery",
+        "Take a boat cruise on the Seine at night"
+      ],
+      "rating": null,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Tokyo, Japan",
+      "country": "Japan",
+      "description": "A futuristic city with amazing technology, sushi, and ancient temples",
+      "notes": "Must visit Shibuya crossing and try authentic ramen",
+      "budget": 3500,
+      "currency": "JPY",
+      "imageUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "status": "wishlist",
+      "travelDates": {
+        "start": null,
+        "end": null
+      },
+      "tips": [
+        "Get a Suica card for trains",
+        "Visit temples early to avoid crowds",
+        "Try sushi at the fish market"
+      ],
+      "rating": null,
+      "createdAt": "2024-01-16T14:30:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Bali, Indonesia",
+      "country": "Indonesia",
+      "description": "Tropical paradise with beautiful beaches, rice terraces, and spiritual temples",
+      "notes": "Want to see the monkey forest and relax on the beach",
+      "budget": 1800,
+      "currency": "USD",
+      "imageUrl": "https://images.unsplash.com/photo-1537996192471-5faf74c602d4",
+      "latitude": -8.3405,
+      "longitude": 115.0920,
+      "status": "visited",
+      "travelDates": {
+        "start": "2023-06-01",
+        "end": "2023-06-15"
+      },
+      "tips": [
+        "Rent a scooter to explore",
+        "Watch sunrise at Mount Batur",
+        "Try a traditional Balinese massage"
+      ],
+      "rating": 5,
+      "createdAt": "2023-12-10T14:30:00Z"
+    },
+    {
+      "id": "4",
+      "name": "New York City, USA",
+      "country": "USA",
+      "description": "The Big Apple - famous for Times Square, Central Park, and Broadway shows",
+      "notes": "Want to see a Broadway show and eat a real New York pizza",
+      "budget": 3000,
+      "currency": "USD",
+      "imageUrl": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "status": "wishlist",
+      "travelDates": {
+        "start": null,
+        "end": null
+      },
+      "tips": [
+        "Buy a MetroCard for unlimited subway rides",
+        "Visit Central Park on a weekday when it's less crowded",
+        "Get Broadway tickets at TKTS for discounts"
+      ],
+      "rating": null,
+      "createdAt": "2024-02-01T09:15:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Rome, Italy",
+      "country": "Italy",
+      "description": "The Eternal City with ancient history, amazing pasta, and the Colosseum",
+      "notes": "Must see the Vatican and throw a coin in the Trevi Fountain",
+      "budget": 2200,
+      "currency": "EUR",
+      "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "status": "visited",
+      "travelDates": {
+        "start": "2022-09-10",
+        "end": "2022-09-18"
+      },
+      "tips": [
+        "Book Colosseum tickets online",
+        "Visit the Vatican Museum early morning",
+        "Eat pasta where locals eat, not near tourist spots"
+      ],
+      "rating": 5,
+      "createdAt": "2023-11-20T11:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Cape Town, South Africa",
+      "country": "South Africa",
+      "description": "Beautiful city with Table Mountain, penguins at the beach, and amazing vineyards",
+      "notes": "Want to hike Table Mountain and see the penguins",
+      "budget": 2000,
+      "currency": "ZAR",
+      "imageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "status": "wishlist",
+      "travelDates": {
+        "start": null,
+        "end": null
+      },
+      "tips": [
+        "Take the cable car up Table Mountain",
+        "Visit Boulders Beach for penguins",
+        "Try wine tasting in Stellenbosch"
+      ],
+      "rating": null,
+      "createdAt": "2024-01-25T16:45:00Z"
+    }
+  ]
+}
