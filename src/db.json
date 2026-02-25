@@ -2,123 +2,114 @@
   "destinations": [
     {
       "id": "1",
-      "name": "Paris, France",
-      "country": "France",
-      "description": "The City of Light is famous for the Eiffel Tower, world-class art, and delicious croissants",
-      "notes": "I want to see the Louvre museum and climb the Eiffel Tower at sunset",
-      "budget": 2500,
+      "name": "Mombasa, Kenya",
+      "country": "Kenya",
+      "description": "The Cradle of Humanity is famous for its epic safaris, the Great Migration, and the towering Mount Kenya.",
+      "notes": "I just want to stay indoors in a new country",
+      "budget": 1000,
       "currency": "EUR",
-      "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
-      "latitude": 48.8566,
-      "longitude": 2.3522,
-      "status": "wishlist",
+      "status": "visited",
+      "year": 2024,
       "travelDates": {
-        "start": null,
-        "end": null
+        "start": "2024-03-03",
+        "end": "2024-03-07"
       },
       "tips": [
-        "Book Louvre tickets online to skip lines",
-        "Try a real croissant from a local bakery",
-        "Take a boat cruise on the Seine at night"
+        "Book a hotel in Mombasa, not Nairobi - It is more quiet",
+        "Only try local delicacies",
+        "Take a drive around"
       ],
-      "rating": null,
-      "createdAt": "2024-01-15T10:00:00Z"
+      "rating": 4,
+      "createdAt": "2026-18-02T13:16:00",
+      "myNote": ""
     },
     {
       "id": "2",
-      "name": "Tokyo, Japan",
-      "country": "Japan",
-      "description": "A futuristic city with amazing technology, sushi, and ancient temples",
-      "notes": "Must visit Shibuya crossing and try authentic ramen",
-      "budget": 3500,
-      "currency": "JPY",
-      "imageUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26",
-      "latitude": 35.6762,
-      "longitude": 139.6503,
-      "status": "wishlist",
+      "name": "Valencia, Spain",
+      "country": "Spain",
+      "description": "The City of Arts and Sciences is famous for its futuristic architecture, sun-drenched beaches, and authentic paella.",
+      "notes": "Must visit the City of Arts and Sciences",
+      "budget": 400,
+      "currency": "EUR",
+      "status": "visited",
+      "year": 2025,
       "travelDates": {
-        "start": null,
-        "end": null
+        "start": "2025-04-01",
+        "end": "2025-04-04"
       },
       "tips": [
-        "Get a Suica card for trains",
-        "Visit temples early to avoid crowds",
-        "Try sushi at the fish market"
+        "Get a SUMA card for the metro",
+        "Stay close to the airport",
+        "Have breakfast inclusive in the hotel"
       ],
-      "rating": null,
-      "createdAt": "2024-01-16T14:30:00Z"
+      "rating": 5,
+      "createdAt": "2026-18-02T13:29:00"
     },
     {
       "id": "3",
-      "name": "Bali, Indonesia",
-      "country": "Indonesia",
-      "description": "Tropical paradise with beautiful beaches, rice terraces, and spiritual temples",
-      "notes": "Want to see the monkey forest and relax on the beach",
-      "budget": 1800,
-      "currency": "USD",
-      "imageUrl": "https://images.unsplash.com/photo-1537996192471-5faf74c602d4",
-      "latitude": -8.3405,
-      "longitude": 115.0920,
+      "name": "Flic en Flac, Mauritius",
+      "country": "Mauritius",
+      "description": "Tropical paradise with beautiful beaches",
+      "notes": "Want to explore the island and relax on the beach",
+      "budget": 3000,
+      "currency": "EUR",
       "status": "visited",
+      "year": 2026,
       "travelDates": {
-        "start": "2023-06-01",
-        "end": "2023-06-15"
+        "start": "2026-01-17",
+        "end": "2026-02-06"
       },
       "tips": [
-        "Rent a scooter to explore",
-        "Watch sunrise at Mount Batur",
-        "Try a traditional Balinese massage"
+        "Live like a local and eat local delicacies",
+        "Use the local transportation system",
+        "Try not to drown in the ocean"
       ],
       "rating": 5,
-      "createdAt": "2023-12-10T14:30:00Z"
+      "createdAt": "2026-18-02T13:35:00"
     },
     {
       "id": "4",
-      "name": "New York City, USA",
-      "country": "USA",
-      "description": "The Big Apple - famous for Times Square, Central Park, and Broadway shows",
-      "notes": "Want to see a Broadway show and eat a real New York pizza",
-      "budget": 3000,
-      "currency": "USD",
-      "imageUrl": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9",
-      "latitude": 40.7128,
-      "longitude": -74.0060,
-      "status": "wishlist",
+      "name": "Accra, Ghana",
+      "country": "Ghana",
+      "description": "The Gateway to Africa is famous for its vibrant Kente cloth, the smoky spice of Ghana Jollof, and its legendary, leaf-wrapped Waakye",
+      "notes": "Want to try many local delicacies and try around Accra",
+      "budget": 1500,
+      "currency": "EUR",
+      "status": "visited",
+      "year": 2025,
       "travelDates": {
-        "start": null,
-        "end": null
+        "start": "2025-11-27",
+        "end": "2025-12-01"
       },
       "tips": [
-        "Buy a MetroCard for unlimited subway rides",
-        "Visit Central Park on a weekday when it's less crowded",
-        "Get Broadway tickets at TKTS for discounts"
+        "Eat Ghana Jollof and Waakye",
+        "Drive around East Legon",
+        "Have cash at hand"
       ],
-      "rating": null,
-      "createdAt": "2024-02-01T09:15:00Z"
+      "rating": 5,
+      "createdAt": "2026-18-02T13:44:00"
     },
     {
       "id": "5",
-      "name": "Rome, Italy",
-      "country": "Italy",
-      "description": "The Eternal City with ancient history, amazing pasta, and the Colosseum",
-      "notes": "Must see the Vatican and throw a coin in the Trevi Fountain",
-      "budget": 2200,
+      "name": "Braga, Portugal",
+      "country": "Portugal",
+      "description": "The Rome of Portugal",
+      "notes": "Must take a walk around the city",
+      "budget": 100,
       "currency": "EUR",
-      "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
       "status": "visited",
+      "year": 2025,
       "travelDates": {
-        "start": "2022-09-10",
-        "end": "2022-09-18"
+        "start": "2025-01-27",
+        "end": "2025-01-28"
       },
       "tips": [
-        "Book Colosseum tickets online",
-        "Visit the Vatican Museum early morning",
-        "Eat pasta where locals eat, not near tourist spots"
+        "Stay in the city center, close to restaurants and shops",
+        "Try new food in the city",
+        "Take a long walk around the city"
       ],
-      "rating": 5,
-      "createdAt": "2023-11-20T11:00:00Z"
+      "rating": 4,
+      "createdAt": "2026-18-02T13:49:00"
     },
     {
       "id": "6",
@@ -127,10 +118,7 @@
       "description": "Beautiful city with Table Mountain, penguins at the beach, and amazing vineyards",
       "notes": "Want to hike Table Mountain and see the penguins",
       "budget": 2000,
-      "currency": "ZAR",
-      "imageUrl": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99",
-      "latitude": -33.9249,
-      "longitude": 18.4241,
+      "currency": "EUR",
       "status": "wishlist",
       "travelDates": {
         "start": null,
@@ -142,7 +130,105 @@
         "Try wine tasting in Stellenbosch"
       ],
       "rating": null,
-      "createdAt": "2024-01-25T16:45:00Z"
+      "createdAt": "2026-18-02T13:52:00"
+    },
+    {
+      "id": "7",
+      "name": "London, UK",
+      "country": "United Kingdom",
+      "description": "Historic city with royal palaces, double-decker buses, and amazing museums",
+      "notes": "Want to see Buckingham Palace and ride a red bus!",
+      "budget": 1000,
+      "currency": "EUR",
+      "status": "wishlist",
+      "travelDates": {
+        "start": null,
+        "end": null
+      },
+      "tips": [
+        "Visit the British Museum (free!)",
+        "See the Changing of the Guard",
+        "Take a ride on the London Eye"
+      ],
+      "rating": null,
+      "createdAt": "2026-18-02T13:52:00"
+    },
+    {
+      "id": "8",
+      "name": "Banff, Canada",
+      "country": "Canada",
+      "description": "Stunning mountains, turquoise lakes, and incredible hiking trails",
+      "notes": "Must see Lake Louise and spot some wildlife!",
+      "budget": 2500,
+      "currency": "EUR",
+      "status": "wishlist",
+      "travelDates": {
+        "start": null,
+        "end": null
+      },
+      "tips": [
+        "Canoe on Lake Louise",
+        "Drive the Icefields Parkway",
+        "Soak in Banff Hot Springs"
+      ],
+      "rating": null,
+      "createdAt": "2026-18-02T13:52:00"
+    },
+    {
+      "id": "9",
+      "name": "Luxembourg City, Luxembourg",
+      "country": "Luxembourg",
+      "description": "Fairytale city with ancient fortresses, deep valleys, and charming old town",
+      "notes": "Want to walk across the viaduct and explore the casemates",
+      "budget": 800,
+      "currency": "EUR",
+      "status": "wishlist",
+      "travelDates": {
+        "start": null,
+        "end": null
+      },
+      "tips": [
+        "Explore the Bock Casemates",
+        "Walk along the Chemin de la Corniche",
+        "Visit the Grand Ducal Palace"
+      ],
+      "rating": null,
+      "createdAt": "2026-18-02T13:52:00"
+    },
+    {
+      "id": "10",
+      "name": "Svishtov, Bulgaria",
+      "country": "Bulgaria",
+      "description": "Historic Danube river town with ancient ruins and Bulgarian charm",
+      "notes": "Want to see the river and experience authentic Bulgarian culture",
+      "budget": 500,
+      "currency": "EUR",
+      "status": "wishlist",
+      "travelDates": {
+        "start": null,
+        "end": null
+      },
+      "tips": [
+        "Visit the historical museum",
+        "Take a walk along the Danube",
+        "Try traditional Bulgarian banitsa"
+      ],
+      "rating": null,
+      "createdAt": "2026-18-02T13:52:00"
+    },
+    {
+      "id": "1772057923414",
+      "name": "Test country",
+      "country": "Test",
+      "description": "This is a test",
+      "budget": 0,
+      "currency": "EUR",
+      "imageUrl": "",
+      "status": "wishlist",
+      "myNote": "",
+      "rating": null,
+      "createdAt": "2026-02-25T22:18:43.414Z"
     }
-  ]
+  ],
+  "Mynote": []
 }
