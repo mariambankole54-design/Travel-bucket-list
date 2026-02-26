@@ -217,17 +217,16 @@
       "createdAt": "2026-18-02T13:52:00"
     },
     {
-      "id": "1772057923414",
-      "name": "Test country",
-      "country": "Test",
-      "description": "This is a test",
-      "budget": 0,
-      "currency": "EUR",
-      "imageUrl": "",
+      "id": "1772112313888",
+      "name": "Reunion Island",
+      "country": "Reunion",
+      "description": "Test ",
+      "budget": 1000,
+      "currency": "USD, EUR, GPB",
       "status": "wishlist",
-      "myNote": "",
+      "myNote": "test",
       "rating": null,
-      "createdAt": "2026-02-25T22:18:43.414Z"
+      "createdAt": "2026-02-26T13:25:13.888Z"
     }
   ],
   "Mynote": []

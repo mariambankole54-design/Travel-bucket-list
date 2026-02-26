@@ -15,7 +15,6 @@ function App() {
     description: '',
     budget: '',
     currency: 'USD, EUR, GPB',
-    imageUrl: '',
     status: 'wishlist'
   });
 
@@ -58,7 +57,6 @@ function App() {
       description: newDest.description,
       budget: Number(newDest.budget),
       currency: newDest.currency,
-      imageUrl: newDest.imageUrl || '',
       status: newDest.status,
       myNote: '',
       rating: null,
@@ -75,7 +73,6 @@ function App() {
           description: '',
           budget: '',
           currency: 'USD',
-          imageUrl: '',
           status: 'wishlist'
         });
         alert('Destination added successfully!');
