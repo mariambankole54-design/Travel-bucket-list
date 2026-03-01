@@ -9,10 +9,14 @@ function DestinationsList() {
   useEffect(() => {
     fetch("http://localhost:5005/destinations")
       .then((res) => res.json())
-      .then((data) => setDestinations(data.destinations))
+      .then((data) => {
+        console.log(data)
+        setDestinations(data)
+  })
   }, [])
 
-  const handleAdd = () => {
+  const handleAdd = (e) => {
+    e.preventDefault()
     const newDestination = {
       name: newName
     }
@@ -52,7 +56,7 @@ function DestinationsList() {
         value={newName}
         onChange={(e) => setNewName(e.target.value)}
       />
-      <button onClick={handleAdd}>Add</button>
+      <button type="submit">Add</button>
 
       <input
         type="text"
@@ -62,7 +66,7 @@ function DestinationsList() {
       />
 
       {filteredDestinations.map((item) => (
-        <DestinationItem
+        <DestinationsItem
           key={item.id}
           destination={item}
           onDelete={handleDelete}
@@ -73,4 +77,4 @@ function DestinationsList() {
   )
 }
 
-export default DestinationsList
+export default DestinationsList;
